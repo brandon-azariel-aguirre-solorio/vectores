@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+using namespace std;
 int main()
 {
 	int numero[5];//aray o vectores de 5 numeros
